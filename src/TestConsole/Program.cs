@@ -50,7 +50,6 @@ namespace TestConsole
                 cts.Cancel();
 
                 LogitechGSDK.LogiLedRestoreLighting();
-                LogitechGSDK.LogiLedShutdown();
             }
             else
             {
